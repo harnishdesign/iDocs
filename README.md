@@ -2,13 +2,13 @@
 iDocs is free one page documentation html template built with Bootstrap 4. Which helps you to create your offline and online documentation for your themes, templates, plugins and software.
 
 ## Demo:
-Click this link for a live demo : <a href="http://demo.harnishdesign.net/html/idocs/demos.html">Find a Demo here</a>
+Click this link for a live demo : <a href="http://demo.harnishdesign.net/html/idocs/demos.html">View a Demo here</a>
 
 ## How to Use:
-You can read details documentation here - <a href="http://demo.harnishdesign.net/html/idocs/help/">Find Documentation Here</a>
+You can read details documentation here - <a href="http://demo.harnishdesign.net/html/idocs/help/">View Documentation Here</a>
 
-## Links
-Please ask general questions through the official site article comment area for the template is at <a href="http://www.harnishdesign.net/idocs-one-page-documentation-html-template/">Find Here</a>.
+## Bugs and Issues
+Have an issue with this template? <a href="https://github.com/harnishdesign/iDocs/issues">Open a new issue here</a> OR Leave a comment on the <a href="http://www.harnishdesign.net/idocs-one-page-documentation-html-template/">template overview page at Harnish Design</a>.
 
 ## Credits:
 <ul>
@@ -22,7 +22,7 @@ Please ask general questions through the official site article comment area for 
 </ul>
 
 ## Created By:
-<a href="http://www.harnishdesign.net/">Harnish Design</a>
+<a href="http://www.harnishdesign.net/">Harnish Design</a> | <a href="http://www.harnishdesign.net/idocs-one-page-documentation-html-template/">Template Overview Page</a>
 
 ## License:
 See the <a href="https://github.com/harnishdesign/iDocs/blob/main/LICENSE">LICENSE</a> file for license rights and limitations (MIT).
