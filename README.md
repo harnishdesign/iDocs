@@ -8,7 +8,9 @@ Click this link for a live demo : <a href="http://demo.harnishdesign.net/html/id
 You can read details documentation here - <a href="http://demo.harnishdesign.net/html/idocs/help/">View Documentation Here</a>
 
 ## Bugs and Issues
-Have an issue with this template? <a href="https://github.com/harnishdesign/iDocs/issues">Open a new issue here</a> OR Leave a comment on the <a href="http://www.harnishdesign.net/idocs-one-page-documentation-html-template/">template overview page at Harnish Design</a>.
+Have an issue with this template? <a href="https://github.com/harnishdesign/iDocs/issues">Open a new issue here</a>
+
+OR Leave a comment on the <a href="http://www.harnishdesign.net/idocs-one-page-documentation-html-template/">Template Overview Page at Harnish Design</a> for general inquiry.
 
 ## Credits:
 <ul>
