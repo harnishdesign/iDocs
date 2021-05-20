@@ -26,5 +26,8 @@ OR Leave a comment on the <a href="http://www.harnishdesign.net/idocs-one-page-d
 ## Created By:
 <a href="http://www.harnishdesign.net/">Harnish Design</a> | <a href="http://www.harnishdesign.net/idocs-one-page-documentation-html-template/">Template Overview Page</a>
 
+## Donations & Support
+My Brain needs two urgent coffees to continue working. Buy one or two coffees for me here: https://opencollective.com/idocs
+
 ## License:
 See the <a href="https://github.com/harnishdesign/iDocs/blob/main/LICENSE">LICENSE</a> file for license rights and limitations (MIT).
