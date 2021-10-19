@@ -88,7 +88,8 @@ $('.navbar-toggler').on('click', function() {
 -------------------------- */
 
 $('#sidebarCollapse').on('click', function () {
-    $('.idocs-navigation').toggleClass('active');
+	$('#sidebarCollapse span:nth-child(3)').toggleClass('w-50');
+	$('.idocs-navigation').toggleClass('active');
 });
 
 
